@@ -1,0 +1,14 @@
+# --- Procesamiento de datos ---
+pandas==2.3.3
+numpy==2.5.1
+scipy>=1.14
+
+# --- Modelado ---
+scikit-learn==1.9.0
+xgboost==3.3.0
+joblib==1.5.3
+
+# --- API ---
+fastapi==0.139.0
+uvicorn[standard]==0.50.2
+pydantic==2.13.4
